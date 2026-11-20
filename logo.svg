@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logo-title">
+  <title id="logo-title">علامة ورشة عبده عشه</title>
+  <rect x="2" y="2" width="60" height="60" rx="17" fill="#17434a"/>
+  <path d="M12 39.5h5.5l3.2-10.2a5.2 5.2 0 0 1 5-3.7h13.8a5.2 5.2 0 0 1 4.9 3.7l3.2 10.2H52v8.3h-4.7a4.7 4.7 0 0 1-9.4 0H26.1a4.7 4.7 0 0 1-9.4 0H12v-8.3Z" fill="none" stroke="#f8f5ec" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.7"/>
+  <path d="M23 34h19M32.5 12.5v8m-4-4h8" fill="none" stroke="#f08766" stroke-linecap="round" stroke-width="3"/>
+  <circle cx="21.4" cy="47.7" r="1.5" fill="#f8f5ec"/>
+  <circle cx="43.1" cy="47.7" r="1.5" fill="#f8f5ec"/>
+</svg>
