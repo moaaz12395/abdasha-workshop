@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moaaz12395.github.io/abdasha-workshop/sitemap.xml
